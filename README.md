@@ -45,8 +45,16 @@ In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn081
 
 #### Running Scripts
 
-## Citing SAEval
+## Citing UniSA
 If you use UniSA in your research, please use the following `bib` entry to cite the paper (paper link is coming soon).
+```
+@inproceedings{li2023unisa,
+  title={UniSA: Unified Generative Framework for Sentiment Analysis},
+  author={Zaijing Li, Ting-En Lin, Yuchuan Wu, Meng Liu, Fengxiao Tang, Ming Zhao, and Yongbin Li},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  year={2023}
+}
+```
 
 ## License
 UniSA is released without any restrictions but restrictions may apply to individual tasks (which are derived from existing datasets) or backbone (e.g., GPT2, T5, and BART). We refer users to the original licenses accompanying each dataset and backbone.
