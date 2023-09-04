@@ -17,29 +17,29 @@
 
 
   
-## Pre-training
+## Pre-train
 
-### Running Scripts
+#### Running Scripts
 
-### Pretrained Weights
+#### Pretrained Weights
 
 ## Fine-tune
 
-### Running Scripts
+#### Running Scripts
 
-### Finetuned Weights
+#### Finetuned Weights
 
 ## Few-shot
 
-### Datasets for Few-shot
+#### Datasets for Few-shot
 
-### Running Scripts
+#### Running Scripts
 
 ## Citing SAEval
 If you use UniSA in your research, please use the following `bib` entry to cite the paper (paper link is coming soon).
 
 ## License
-UniSA is released without any restrictions but restrictions may apply to individual tasks (which are derived from existing datasets). We refer users to the original licenses accompanying each dataset.
+UniSA is released without any restrictions but restrictions may apply to individual tasks (which are derived from existing datasets) or backbone (e.g., GPT2, T5, and BART). We refer users to the original licenses accompanying each dataset and backbone.
 
 
 
