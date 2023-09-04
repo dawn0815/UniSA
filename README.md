@@ -36,7 +36,12 @@ In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn081
 
 ### Few-shot
 
-#### Datasets for Few-shot
+## Evaluation
+Here are the experimental results of [UniSA](https://github.com/dawn0815/UniSA) on the SAEval compared to SOTA models of various subtasks. 
+
+![pdf](https://github.com/dawn0815/SAEval-Benchmark/blob/master/p5.png)
+
+We encourage more researchers to join the study on multi-tasks unified modeling for sentiment analysis, and contribute their wisdom to build sentiment intelligence.
 
 ## Citing UniSA
 If you use UniSA in your research, please use the following `bib` entry to cite the paper (paper link is coming soon).
