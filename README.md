@@ -2,6 +2,8 @@
 
 #### **Zaijing Li**, **Ting-En Lin**, **Yuchuan Wu**, **Meng Liu**, **Fengxiao Tang**, **Ming Zhao**, **Yongbin Li**  
 
+[[Paper]](https://github.com/dawn0815/SAEval-Benchmark)   [[Benchmark]](https://github.com/dawn0815/SAEval-Benchmark)
+
 ## Introduction
 Sentiment analysis is a crucial task that aims to understand people's emotional states and predict emotional categories based on multimodal information. It consists of several subtasks, such as emotion recognition in conversation (ERC), aspect-based sentiment analysis (ABSA), and multimodal sentiment analysis (MSA). However, unifying all subtasks in sentiment analysis presents numerous challenges, including modality alignment, unified input/output forms, and dataset bias. To address these challenges, we propose a Task-Specific Prompt method to jointly model subtasks and introduce a multimodal generative framework called UniSA. Additionally, we organize the benchmark datasets of main subtasks into a new Sentiment Analysis Evaluation benchmark, SAEval. We design novel pre-training tasks and training methods to enable the model to learn generic sentiment knowledge among subtasks to improve the model's multimodal sentiment perception ability. Our experimental results show that UniSA performs comparably to the state-of-the-art on all subtasks and generalizes well to various subtasks in sentiment analysis. 
 
