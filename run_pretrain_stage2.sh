@@ -16,6 +16,8 @@ val_mosi='./datasets/path_to_mosi_val_dir'
 val_mosei='./datasets/path_to_mosei_val_dir'
 val_amazon='./datasets/path_to_amazon_val_dir'
 
+checkpoint_saved='./checkpoint_saved/pretrain_stage1'  #dir to the model weights (checkpoint)
+
 python pretrain2.py \
   --dataset iemocap_pretrain ${train_iemocap} \ 
   --dataset meld_pretrain ${train_meld} \ 
@@ -35,7 +37,7 @@ python pretrain2.py \
   --dataset amazon_val ${val_amazon} \  
   --checkpoint_dir ./checkpoint_saved \ 
   --model_config ./config/pretrain_base.json \ 
-  --checkpoint ./checkpoint_saved/pretrain_stage1 \ 
+  --checkpoint ${checkpoint_saved} \ 
   --log_dir ./logs \ 
   --validate_loss --amp \ 
   --dropout 0.3 --lr 5e-6 \ 
