@@ -1,5 +1,13 @@
 # UniSA: Unified Generative Framework for Sentiment Analysis (ACM MM 2023)
-
+<div align="center">
+Zaijing Li, Ting-En Lin, Yuchuan Wu, Meng Liu, Fengxiao Tang†, Ming Zhao†, Yongbin Li†  
+</div>
+<div align="center">
+<strong>Central South University, Alibaba Group</strong>
+</div>
+<div align="center">
+† Corresponding Author
+</div>
 #### **Zaijing Li**, **Ting-En Lin**, **Yuchuan Wu**, **Meng Liu**, **Fengxiao Tang**, **Ming Zhao**, **Yongbin Li**  
 
 [[Paper]](https://github.com/dawn0815/SAEval-Benchmark)   [[Benchmark]](https://github.com/dawn0815/SAEval-Benchmark)
