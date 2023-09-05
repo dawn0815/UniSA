@@ -8,9 +8,8 @@
 <div align="center">
 † Corresponding Author
 </div>
-<div align="center">
+
 [[Paper]](https://github.com/dawn0815/SAEval-Benchmark)         [[Benchmark]](https://github.com/dawn0815/SAEval-Benchmark)
-</div>
 
 
 ![image](https://github.com/dawn0815/UniSA/blob/master/f1.png)
