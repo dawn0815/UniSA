@@ -110,7 +110,7 @@ If you found this work useful, consider giving this repository a star and citing
 - Thanks Tianshu Yu for his constructive comments.
 
 ## License
-UniSA is released without any restrictions but restrictions may apply to individual tasks (which are derived from existing datasets) or backbone (e.g., GPT2, T5, and BART). We refer users to the original licenses accompanying each dataset and backbone.
+UniSA is released without any restrictions but restrictions may apply to individual tasks (which are derived from existing datasets) or backbone (e.g., [GPT2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf?ref=superpower-chatgpt-extension), [T5](https://arxiv.org/abs/1910.10683), and [BART](https://arxiv.org/abs/1910.13461)). We refer users to the original licenses accompanying each dataset and backbone.
 
 
 
