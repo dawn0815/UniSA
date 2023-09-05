@@ -22,6 +22,8 @@ val_imdb='./datasets/path_to_imdb_val_dir'
 val_absa14='./datasets/path_to_absa14_val_dir'
 val_absa16='./datasets/path_to_absa16_val_dir'
 
+checkpoint_saved='./checkpoint_saved/pretrain_stage2'  #dir to the model weights (checkpoint)
+
 python finetune.py \
   --dataset iemocap_pretrain ${train_iemocap} \ 
   --dataset meld_pretrain ${train_meld} \ 
@@ -47,7 +49,7 @@ python finetune.py \
   --dataset absa16_val ${val_absa16} \   
   --checkpoint_dir ./checkpoint_saved \ 
   --model_config ./config/pretrain_base.json \ 
-  --checkpoint ./checkpoint_saved/pretrain_stage1 \ 
+  --checkpoint ${checkpoint_saved} \  
   --log_dir ./logs \ 
   --validate_loss --amp \ 
   --dropout 0.1 --lr 5e-6 \ 
