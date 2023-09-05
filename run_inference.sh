@@ -11,6 +11,8 @@ test_imdb='./datasets/path_to_imdb_test_dir'
 test_absa14='./datasets/path_to_absa14_test_dir'
 test_absa16='./datasets/path_to_absa16_test_dir'
 
+checkpoint_saved='./checkpoint_saved/finetune'  #dir to the model weights (checkpoint)
+
 python inference.py \
   --dataset iemocap_test ${test_iemocap} \ 
   --dataset meld_test ${test_meld} \ 
@@ -25,6 +27,6 @@ python inference.py \
   --dataset absa16_test ${test_absa16} \   
   --checkpoint_dir ./checkpoint_saved \ 
   --model_config ./config/pretrain_base.json \ 
-  --checkpoint ./checkpoint_saved/finetune \ 
+  --checkpoint ${checkpoint_saved} \ 
   --log_dir ./logs \ 
   --validate_loss --amp \ 
