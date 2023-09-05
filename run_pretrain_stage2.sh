@@ -35,7 +35,7 @@ python pretrain2.py \
   --dataset amazon_val ${val_amazon} \  
   --checkpoint_dir ./checkpoint_saved \ 
   --model_config ./config/pretrain_base.json \ 
-  --checkpoint ./checkpoint_saved/pretrain_stage2 \ 
+  --checkpoint ./checkpoint_saved/pretrain_stage1 \ 
   --log_dir ./logs \ 
   --validate_loss --amp \ 
   --dropout 0.3 --lr 5e-6 \ 
