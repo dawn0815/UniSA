@@ -33,12 +33,6 @@ In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn081
 | model_1 | pretrain_stage_2 | [[Google Drive]](https://drive.google.com/file/d/1hq_ZN0xBlpkgep8HwK_fq2X5IEknuxm3/view?usp=sharing) |
 | model_2 | finetune         | [[Google Drive]](https://drive.google.com/file/d/14mwftx3Q7oczECVCWDFktbPaIK8ly53E/view?usp=sharing) |
 
-#### Pre-train
-stage 1 [Google Drive](https://drive.google.com/file/d/1BCiJV_dg3WmWX1N29KEVHQSn5woGVPTD/view?usp=sharing)
-
-stage 2 [Google Drive](https://drive.google.com/file/d/1hq_ZN0xBlpkgep8HwK_fq2X5IEknuxm3/view?usp=sharing)
-#### Fine-tune
-fine-tune [Google Drive](https://drive.google.com/file/d/14mwftx3Q7oczECVCWDFktbPaIK8ly53E/view?usp=sharing)
 ## Running Scripts
 
 ### Pre-train
