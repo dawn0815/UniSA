@@ -26,6 +26,8 @@ Our work represents a step forward in the unified modeling of sentiment analysis
 ## Datasets
 In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn0815/SAEval-Benchmark) to train and evaluate our UniSA. The SAEval is a benchmark for sentiment analysis to evaluate the model's performance on various subtasks. All datasets were standardized to the same format and divided into training, validation and test sets. For more information about SAEval Benchmark, please refer to the [link](https://github.com/dawn0815/SAEval-Benchmark).
 
+![image](https://github.com/dawn0815/SAEval-Benchmark/blob/master/p1.png)
+
 ## Model Weights 
 | Model                 | Stage                          | File Size              | Link                                                        |
 | :-------------------- | -------------------------------|----------------------- | ----------------------------------------------------------- |
@@ -57,7 +59,7 @@ In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn081
         
 5. few-shot
     ```
-    bash run_fewshot.sh
+    bash run_few_shot.sh
     ```
     
 ## Evaluation
