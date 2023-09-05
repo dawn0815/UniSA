@@ -105,8 +105,8 @@ If you found this work useful, consider giving this repository a star and citing
 }
 ```
 ## Acknowledgement
-- Thanks [UniMSE](https://github.com/LeMei/UniMSE) for their contributions to the processing of datasets (e.g., [MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/), [MOSEI](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/), [IEMOCAP](https://sail.usc.edu/iemocap/) and [MELD](https://github.com/declare-lab/MELD)).
-- Thanks [KM-BART](https://github.com/fomalhautb/KM-BART) for their contributions to the multi-modal [BART](https://arxiv.org/abs/1910.13461) framework.
+- Thank [UniMSE](https://github.com/LeMei/UniMSE) for their contributions to the processing of datasets (e.g., [MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/), [MOSEI](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/), [IEMOCAP](https://sail.usc.edu/iemocap/) and [MELD](https://github.com/declare-lab/MELD)).
+- Thank [KM-BART](https://github.com/fomalhautb/KM-BART) for their contributions to the multi-modal [BART](https://arxiv.org/abs/1910.13461) framework.
 - Thanks Tianshu Yu for his constructive comments.
 
 ## License
