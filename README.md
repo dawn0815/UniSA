@@ -60,14 +60,14 @@ You can download the model weights we provide for **research only**!
 ## Running Scripts
 The entire training process is divided into two phases of pre-training and fine-tuning. You can train your own model step by step according to steps 1,2,3 or you can use the model weights we provide for fine-tuning/inference.
 
-**Before you proceed to the following steps, you need to prepare your dataset according to [SAEval](https://github.com/dawn0815/SAEval-Benchmark)**
+**Before you proceed to the following steps, you need to prepare your dataset according to [SAEval](https://github.com/dawn0815/SAEval-Benchmark)**.
 
-1. pretrain-stage1
+1. pretrain-stage-1
     ```
     bash run_pretrain_stage1.sh
     ```
     
-2. pretrain-stage2
+2. pretrain-stage-2
     ```
     bash run_pretrain_stage2.sh
     ```
