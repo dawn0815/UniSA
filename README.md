@@ -44,11 +44,18 @@ In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn081
 ![image](https://github.com/dawn0815/SAEval-Benchmark/blob/master/p1.png)
 
 ## Model Weights 
+You can download the model weights we provide for **research only**!
+
 | Model                 | Stage                          | File Size              | Link                                                        |
 | :-------------------- | -------------------------------|----------------------- | ----------------------------------------------------------- |
 | model_0 |  pretrain_stage_1  |   1.7G  |  [[Google Drive]](https://drive.google.com/file/d/1BCiJV_dg3WmWX1N29KEVHQSn5woGVPTD/view?usp=sharing) |
 | model_1 |  pretrain_stage_2  |   1.7G  |  [[Google Drive]](https://drive.google.com/file/d/1hq_ZN0xBlpkgep8HwK_fq2X5IEknuxm3/view?usp=sharing) |
 | model_2 |  finetune          |   3.4G  |  [[Google Drive]](https://drive.google.com/file/d/14mwftx3Q7oczECVCWDFktbPaIK8ly53E/view?usp=sharing) |
+
+#### How to use
+1. Download the model weights and unzip the folder
+2. Create a folder named ''ckpt'' under this repos
+3. Move the model weights folder into ''ckpt''
 
 ## Running Scripts
 
