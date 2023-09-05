@@ -79,7 +79,7 @@ Here are the experimental results of [UniSA](https://github.com/dawn0815/UniSA) 
 We encourage more researchers to join the study on multi-tasks unified modeling for sentiment analysis, and contribute their wisdom to build sentiment intelligence.
 
 ## Citation
-If you use UniSA in your research, please use the following `bib` entry to cite the paper (paper link is coming soon).
+If you found this work useful, consider giving this repository a star and citing our paper as followed: (paper link is coming soon).
 ```
 @inproceedings{li2023unisa,
   title={UniSA: Unified Generative Framework for Sentiment Analysis},
