@@ -29,18 +29,37 @@ In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn081
 ## Model Weights 
 | Model                 | Stage                          | File Size              | Link                                                        |
 | :-------------------- | -------------------------------|----------------------- | ----------------------------------------------------------- |
-| model_0 |  pretrain_stage_1  |  1.7G  |  [[Google Drive]](https://drive.google.com/file/d/1BCiJV_dg3WmWX1N29KEVHQSn5woGVPTD/view?usp=sharing) |
-| model_1 |  pretrain_stage_2  |  1.7G  |  [[Google Drive]](https://drive.google.com/file/d/1hq_ZN0xBlpkgep8HwK_fq2X5IEknuxm3/view?usp=sharing) |
-| model_2 |  finetune          |  3.4G  |  [[Google Drive]](https://drive.google.com/file/d/14mwftx3Q7oczECVCWDFktbPaIK8ly53E/view?usp=sharing) |
+| model_0 |  pretrain_stage_1  |   1.7G  |  [[Google Drive]](https://drive.google.com/file/d/1BCiJV_dg3WmWX1N29KEVHQSn5woGVPTD/view?usp=sharing) |
+| model_1 |  pretrain_stage_2  |   1.7G  |  [[Google Drive]](https://drive.google.com/file/d/1hq_ZN0xBlpkgep8HwK_fq2X5IEknuxm3/view?usp=sharing) |
+| model_2 |  finetune          |   3.4G  |  [[Google Drive]](https://drive.google.com/file/d/14mwftx3Q7oczECVCWDFktbPaIK8ly53E/view?usp=sharing) |
 
 ## Running Scripts
 
-### Pre-train
-
-### Fine-tune
-
-### Few-shot
-
+1. pretrain-stage1
+    ```
+    bash run_pretrain_stage1.sh
+    ```
+    
+2. pretrain-stage2
+    ```
+    bash run_pretrain_stage2.sh
+    ```
+        
+3. fine-tune
+    ```
+    bash run_finetune.sh
+    ```
+    
+4. inference
+    ```
+    bash run_inference.sh
+    ```
+        
+5. few-shot
+    ```
+    bash run_fewshot.sh
+    ```
+    
 ## Evaluation
 Here are the experimental results of [UniSA](https://github.com/dawn0815/UniSA) on the SAEval compared to SOTA models of various subtasks. 
 
