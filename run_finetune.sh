@@ -1,4 +1,4 @@
-intrain_iemocap='./datasets/path_to_iemocap_train_dir'
+train_iemocap='./datasets/path_to_iemocap_train_dir'
 train_meld='./datasets/path_to_meld_train_dir'
 train_emowoz='./datasets/path_to_emowoz_train_dir'
 train_daily='./datasets/path_to_daily_train_dir'
