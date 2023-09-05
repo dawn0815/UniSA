@@ -94,6 +94,10 @@ If you found this work useful, consider giving this repository a star and citing
   year={2023}
 }
 ```
+## Acknowledgement
+- Thanks [UniMSE](https://github.com/LeMei/UniMSE) for their contributions to the processing of datasets (e.g., MOSEI, IEMOCAP, and MELD).
+- Thanks [KM-BART](https://github.com/fomalhautb/KM-BART) for their contributions to the multi-modal BART framework.
+- Thanks Tianshu Yu for his constructive comments.
 
 ## License
 UniSA is released without any restrictions but restrictions may apply to individual tasks (which are derived from existing datasets) or backbone (e.g., GPT2, T5, and BART). We refer users to the original licenses accompanying each dataset and backbone.
