@@ -29,6 +29,7 @@ Our work represents a step forward in the unified modeling of sentiment analysis
 
 2. Create conda environment
     ```
+    cd config
     conda env create -f environment.yaml
     ```
 ## Datasets
