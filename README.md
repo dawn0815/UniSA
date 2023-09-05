@@ -1,6 +1,6 @@
 # UniSA: Unified Generative Framework for Sentiment Analysis (ACM MM 2023)
 <div align="center">
-**Zaijing Li**, **Ting-En Lin**, Yuchuan Wu, Meng Liu, Fengxiao Tang†, Ming Zhao†, Yongbin Li†  
+<strong>Zaijing Li, Ting-En Lin, Yuchuan Wu, Meng Liu, Fengxiao Tang†, Ming Zhao†, Yongbin Li† </strong> 
 </div>
 <div align="center">
 <strong>Central South University, Alibaba Group</strong>
