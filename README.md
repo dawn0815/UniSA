@@ -54,8 +54,8 @@ You can download the model weights we provide for **research only**!
 
 #### How to use
 1. Download the model weights and unzip the folder
-2. Create a folder named ''ckpt'' under this repos
-3. Move the model weights folder into ''ckpt''
+2. Create a folder named ``checkpoint_saved`` under this repos
+3. Move the model weights folder into ``checkpoint_saved``
 
 ## Running Scripts
 The entire training process is divided into two phases of pre-training and fine-tuning. You can train your own model step by step according to steps 1,2,3 or you can use the model weights we provide for fine-tuning/inference.
