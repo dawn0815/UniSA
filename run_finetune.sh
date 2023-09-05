@@ -1,4 +1,4 @@
-train_iemocap='./datasets/path_to_iemocap_train_dir'
+intrain_iemocap='./datasets/path_to_iemocap_train_dir'
 train_meld='./datasets/path_to_meld_train_dir'
 train_emowoz='./datasets/path_to_emowoz_train_dir'
 train_daily='./datasets/path_to_daily_train_dir'
@@ -47,7 +47,7 @@ python finetune.py \
   --dataset absa16_val ${val_absa16} \   
   --checkpoint_dir ./checkpoint_saved \ 
   --model_config ./config/pretrain_base.json \ 
-  --checkpoint ./checkpoint_saved/finetune \ 
+  --checkpoint ./checkpoint_saved/pretrain_stage1 \ 
   --log_dir ./logs \ 
   --validate_loss --amp \ 
   --dropout 0.1 --lr 5e-6 \ 
