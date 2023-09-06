@@ -88,14 +88,14 @@ The entire training process is divided into two phases of pre-training and fine-
     ```
     
 ## Evaluation
-Here are the experimental results of [UniSA](https://github.com/dawn0815/UniSA) on the SAEval compared to SOTA models of various subtasks. 
+Here are the experimental results of [UniSA](https://arxiv.org/abs/2309.01339) on the SAEval compared to SOTA models of various subtasks. 
 
 ![pdf](https://github.com/dawn0815/SAEval-Benchmark/blob/master/p5.png)
 
 We encourage more researchers to join the study on multi-tasks unified modeling for sentiment analysis, and contribute their wisdom to build sentiment intelligence.
 
 ## Citation
-If you found this work useful, consider giving this repository a star and citing our paper as followed: (paper link is coming soon).
+If you found this work useful, consider giving this repository a star and citing our paper as followed:
 ```
 @inproceedings{li2023unisa,
   title={UniSA: Unified Generative Framework for Sentiment Analysis},
