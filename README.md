@@ -9,7 +9,7 @@ Central South University, Alibaba Group
 † Corresponding Author
 </div>
 
-[[Paper]](https://arxiv.org/abs/2309.01339) [[Codes]](https://github.com/dawn0815/UniSA) [[Benchmark]](https://github.com/dawn0815/SAEval-Benchmark)
+[[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612336) [[Codes]](https://github.com/dawn0815/UniSA) [[Benchmark]](https://github.com/dawn0815/SAEval-Benchmark)
 
 
 ![image](https://github.com/dawn0815/UniSA/blob/master/f1.png)
@@ -91,11 +91,16 @@ We encourage more researchers to join the study on multi-tasks unified modeling 
 ## Citation
 If you found this work useful, consider giving this repository a star and citing our paper as followed:
 ```
-@inproceedings{li2023unisa,
-  title={UniSA: Unified Generative Framework for Sentiment Analysis},
-  author={Zaijing Li, Ting-En Lin, Yuchuan Wu, Meng Liu, Fengxiao Tang, Ming Zhao, and Yongbin Li},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  year={2023}
+@inproceedings{li-unisa,
+author = {Li, Zaijing and Lin, Ting-En and Wu, Yuchuan and Liu, Meng and Tang, Fengxiao and Zhao, Ming and Li, Yongbin},
+title = {UniSA: Unified Generative Framework for Sentiment Analysis},
+year = {2023},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3581783.3612336},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {6132–6142},
+numpages = {11},
+series = {MM '23}
 }
 ```
 ## Acknowledgement
