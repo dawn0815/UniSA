@@ -37,6 +37,10 @@ In this paper, we use the proposed [SAEval Benchmark](https://github.com/dawn081
 
 ![image](https://github.com/dawn0815/SAEval-Benchmark/blob/master/p1.png)
 
+Here we provide download link for some of the processed datasets. Please obtain licenses for the original datasets before downloading our processed data!
+
+[[Google Drive]](https://drive.google.com/file/d/1ih3oeW5tkaeDi3IIFAIM74a9Q9hvu7hM/view?usp=sharing)
+
 ## Model Weights 
 You can download the model weights we provide for **research only**!
 
