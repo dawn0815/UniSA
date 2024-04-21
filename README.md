@@ -42,6 +42,10 @@ Here we provide download link for some of the processed datasets. Please obtain 
 
 [[Google Drive]](https://drive.google.com/file/d/1ih3oeW5tkaeDi3IIFAIM74a9Q9hvu7hM/view?usp=sharing)
 
+If you need processed textual data for IEMOCAP, MELD, MOSI, and MOSEI, you can download it via the following link:
+
+[[Textual Data]](https://drive.google.com/file/d/1GwWJ7FxmcEwMBWI0ObHhYGqsH4IXIpso/view?usp=sharing)
+
 ## Model Weights 
 You can download the model weights we provide for **research only**!
 
